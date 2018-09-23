@@ -1,5 +1,5 @@
 # Smart Rockets
-This project is an implementation of smart rockets that uses a genetic algorithm to learn and evolve the shortest path to a target, navigating past an obsticle. The code and graphics are written using the [P5.js](https://p5js.org/) coding language.
+This project is an implementation of smart rockets that uses a genetic algorithm to learn and evolve the shortest path to a target, navigating past an obsticle. The code and graphics are written using the [P5.js](https://p5js.org/) coding language, and the full program can be seen [here](https://ltmullineux.github.io/smart-rockets/).
 
 - To begin, a population of rockets is initialized.
 - Each rocket has an array of random vectors that will determine its path during the episode.
